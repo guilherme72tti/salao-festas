@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row g-4">
       <div class="col-lg-5">
-        <div class="h5 fw-bold mb-2">Canto das Estrelas</div>
+        <div class="h5 fw-bold mb-2">Salão de festa</div>
         <p class="text-white-50 mb-0">Salão para festas e eventos em Guarulhos. Estrutura completa, decoração e buffet.</p>
       </div>
 
