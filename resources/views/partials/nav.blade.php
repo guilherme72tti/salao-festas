@@ -1,6 +1,6 @@
 <nav id="mainNav" class="navbar navbar-expand-lg navbar-dark fixed-top nav-glass">
   <div class="container">
-    <a class="navbar-brand fw-bold" href="#top">Buffet <span class="brand-accent">Europa</span></a>
+    <a class="navbar-brand fw-bold" href="#top">Canto das <span class="brand-accent">Estrelas</span></a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
       <span class="navbar-toggler-icon"></span>
